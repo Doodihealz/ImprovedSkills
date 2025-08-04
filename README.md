@@ -47,6 +47,6 @@ Inside the script:
 
 ## License
 
-Free to use and modify. **Credit required.**
+Free to use and modify. **I kindly ask for credit.**
 
-**Author:** Doodihealz / Corey
+ Made by: Doodihealz / Corey
