@@ -6,4 +6,5 @@ Grants XP and bonus item procs when gathering, smelting bars, creating inks, or 
 Installation: Drop into your **scripts** folder.
 
 Free to use and modify—just credit me.
+
 Author: Doodihealz / Corey
