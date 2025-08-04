@@ -9,7 +9,6 @@ Grants XP and bonus item procs when gathering, smelting bars, creating inks, or 
 
 - **XP System**
   - XP is granted based on the node.
-    
   - XP increases by **+1% per player level**.
     - Example: A 100 XP node gives **179 XP** at level 79.
 
