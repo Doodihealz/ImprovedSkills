@@ -7,13 +7,13 @@ Grants XP and bonus item procs when gathering, smelting bars, creating inks, or 
 
 ## Features
 
-- 🧱 **XP System**
+- **XP System**
   - XP is granted based on the node.
     
   - XP increases by **+1% per player level**.
     - Example: A 100 XP node gives **179 XP** at level 79.
 
-- 🎯 **Proc System**
+- **Proc System**
   - Base proc chance:
     - `gather`: 15%
     - `bar`: 15%
@@ -22,7 +22,7 @@ Grants XP and bonus item procs when gathering, smelting bars, creating inks, or 
   - Bonus chance: **+1% per 100 profession skill**, up to +4%.
     - Max proc chance: **19%**
 
-- 🎨 **Proc messages are color-coded** based on total chance:
+- **Proc messages are color-coded** based on total chance:
   - Green: 15%
   - Blue: 16%
   - Purple: 17%
