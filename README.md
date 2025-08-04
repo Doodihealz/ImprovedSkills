@@ -1,13 +1,9 @@
-# ImprovedSkills
-For Azerothcore using the Eluna engine
+ImprovedSkills
+For AzerothCore using the Eluna engine
 
-Grants XP and bonus item procs for gathering, crafting bars, inks, and leather based on player level and profession skill.
-Can be edited to change exp amounts per ore, disable exp, or disable procs all together.
+Grants XP and bonus item procs when gathering, smelting bars, creating inks, or crafting leather. XP scales with player level; proc chances scale with profession skill. Fully configurable—adjust XP per node, or disable XP/procs as needed.
 
-Installation:
-Just drop it in your scripts folder and enjoy.
+Installation: Drop into your scripts folder.
 
-You may freely edit and use this script, I just ask you to credit me is all.
-
-Made by:
-Doodihealz / Corey
+Free to use and modify—just credit me.
+Author: Doodihealz / Corey
